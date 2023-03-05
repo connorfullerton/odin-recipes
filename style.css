@@ -1,0 +1,13 @@
+* {
+    background-color: #FFF5EE;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.gif {
+    display: block;
+    margin: auto;
+}
